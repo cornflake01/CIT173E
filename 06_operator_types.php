@@ -2,8 +2,8 @@
 <head><title>Arithmetical Operators</title><head>
 <body>
 <?php
- $a = 42;
- $b = 20;
+ $a = 33;
+ $b = 77;
  
  $c = $a + $b;
  echo "Addition Operation Result: $c <br/>";
