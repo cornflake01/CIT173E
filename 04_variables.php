@@ -57,7 +57,7 @@ Print "Return value is $retval\n";
 ?>
 
 <?
-//global variables
+//global variables --
 $somevar = 15;
 function addit() {
 GLOBAL $somevar;
