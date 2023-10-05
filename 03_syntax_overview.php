@@ -39,11 +39,11 @@ print("Variable CaPiTaL is $CaPiTaL<br>");
 ?>
 <?
 if (3 == 2 + 1)
- print("Good - I haven't totally lost my mind.<br>");
+ print("Good - I haven't totally lost my sanity.<br>");
 if (3 == 2 + 1)
 
  print("Good - I haven't totally");
- print("lost my mind.<br>");
+ print("lost my sanity.<br>");
 ?>
 </body>
 </html>
