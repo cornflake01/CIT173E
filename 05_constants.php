@@ -10,6 +10,11 @@ define("MINSIZE", 30);
 echo MINSIZE;
 echo constant("MINSIZE"); // same thing as the previous line
 ?>
+<?php
+define("MAXSIZE", 50);
+echo MAXSIZE;
+echo constant("MAXSIZE"); 
+?>
 
 <?
 // Valid constant names
