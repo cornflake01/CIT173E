@@ -17,7 +17,7 @@ echo constant("MAXSIZE");
 ?>
 
 <?
-// Valid constant names
+// Valid constant names ===
 define("ONE", "first thing");
 define("TWO2", "second thing");
 define("THREE_3", "third thing")
